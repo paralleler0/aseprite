@@ -82,4 +82,3 @@ jobs:
         with:
           name: aseprite-${{ matrix.os }}-${{ matrix.build_type }}
           path: "*.tar.gz"
-          retention-days: 1
